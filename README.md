@@ -1,2 +1,3 @@
 # InsightByte
-Navigating Future IT Landscapes
+## Navigating Future IT Landscapes
+The project focuses on analyzing data to identify emerging skills trends essential for the organization's competitiveness and staying abreast of evolving technologies. Key tasks include collecting data from various sources like job postings, training portals, and surveys, followed by data analysis to uncover trends such as the most in-demand programming languages and database skills. The project also involves utilizing web scraping and APIs to gather data, applying data wrangling techniques for data preparation, and using statistical methods for analysis. Finally, insights are consolidated into a dashboard using IBM Cognos Analytics, and findings are presented effectively to stakeholders.
